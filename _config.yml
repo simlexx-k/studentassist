@@ -8,9 +8,9 @@
 # General App Info
 #
 app:
-  name: Awesome App # REQUIRED - Enter your app name
-  ios_id: 912209541 # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
-  android_id: # Optional - Enter Android app id like: com.example.app
+  name: Student Assist # REQUIRED - Enter your app name
+  ios_id: 0123456789 # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
+  android_id: com.katalyst.studentassist # Optional - Enter Android app id like: com.example.app
 
   icon: # Leave blank to auto-magically populate
   # To update use path relative to project root with no leading slash:
@@ -42,9 +42,8 @@ app:
 #
 # Marketing
 #
-marketing_header: Does Awesome Stuff # Optional
-marketing_desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
+marketing_header: Help Your Child Master Mathematics # Optional
+marketing_desc: Student Assist App works by engaging the child in challenging but educative mathematical challenges. Developed by a teacher of Mathematics, the app entails the best approaches to handle multiplication practices with ease and much comfort.
 #
 # Social Links
 #
